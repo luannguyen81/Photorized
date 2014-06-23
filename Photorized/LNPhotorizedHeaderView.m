@@ -13,7 +13,7 @@
     self = [super initWithFrame:frame];
     if (self) {
         // Initialization code
-        self.searchLabel.text = @"farts";
+        self.searchLabel.text = @"home";
     }
     return self;
 }
